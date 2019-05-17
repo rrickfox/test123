@@ -1,14 +1,5 @@
 blabla lorem ipsum
 neue Zeile              Das ist aus dem Master!!
+neue Zeile
 Das kommt in den feature-1 Branch!
 Das ist ein nachträglicher Eintrag
-Blub blub
-cherry-pick-Änderungen
-noch ne cherry-pick-Änderung
-Änderung 3
-
-
-ok nochmal:
-Commit 1
-Commit 2
-Commit3
